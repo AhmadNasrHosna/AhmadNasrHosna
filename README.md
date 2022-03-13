@@ -4,4 +4,4 @@
 
 [Personal website](https://ahmadnasr.net) • [LinkedIn](https://www.linkedin.com/in/ahmadnasrhosna/) • [Twitter](https://twitter.com/AhmadNasrHosna) • [CodePen](https://www.codepen.io/ahmadnasr) • [Instagram](https://www.instagram.com/ahmadnasrhosna/)
 
-<h3 style="font-family: 'Bogart Trial'">hey</h3>
+<h3 style="font-family: 'Bogart Trial !important'">hey</h3>
