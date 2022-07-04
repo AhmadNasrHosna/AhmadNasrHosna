@@ -5,4 +5,4 @@
 [Personal website](https://ahmadnasr.net) • [LinkedIn](https://www.linkedin.com/in/ahmadnasrhosna/) • [Twitter](https://twitter.com/AhmadNasrHosna) • [CodePen](https://www.codepen.io/ahmadnasr) • [Instagram](https://www.instagram.com/ahmadnasrhosna/)
 
 ![](https://raw.githubusercontent.com/AhmadNasrHosna/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/AhmadNasrHosna/github-stats/master/generated/languages.svg#gh-dark-mode-only)
